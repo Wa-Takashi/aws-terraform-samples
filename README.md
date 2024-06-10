@@ -1,7 +1,6 @@
-### README
+# README
 
-```markdown
-# AWS Terraform サンプルプロジェクト
+## AWS Terraform サンプルプロジェクト
 
 このプロジェクトは、Terraformを使用してAWSインフラストラクチャを作成および管理する方法を示しています。
 PC、サブネット、セキュリティグループ、およびEC2インスタンスが含まれます。
@@ -22,6 +21,7 @@ PC、サブネット、セキュリティグループ、およびEC2インスタ
 ## セットアップ手順
 
 1. リポジトリをクローンする：
+   
    ```
    git clone https://github.com/yourusername/aws-terraform-samples.git
    cd aws-terraform-samples
