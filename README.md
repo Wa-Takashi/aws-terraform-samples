@@ -21,8 +21,8 @@ PC、サブネット、セキュリティグループ、およびEC2インスタ
 
 ## セットアップ手順
 
-1. リポジトリをクローンします：
-   ```sh
+1. リポジトリをクローンする：
+   ```
    git clone https://github.com/yourusername/aws-terraform-samples.git
    cd aws-terraform-samples
    ```
