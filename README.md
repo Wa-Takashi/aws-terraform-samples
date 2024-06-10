@@ -1,4 +1,4 @@
-### 日本語のREADMEテンプレート
+### README
 
 ```markdown
 # AWS Terraform サンプルプロジェクト
@@ -25,3 +25,4 @@ PC、サブネット、セキュリティグループ、およびEC2インスタ
    ```sh
    git clone https://github.com/yourusername/aws-terraform-samples.git
    cd aws-terraform-samples
+   ```
