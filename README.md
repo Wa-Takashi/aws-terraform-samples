@@ -23,5 +23,5 @@ PC、サブネット、セキュリティグループ、およびEC2インスタ
 1. リポジトリをクローンする：
    
    ```
-   git clone https://github.com/<yourusername>/aws-terraform-samples.git
+   git clone https://github.com/<YOUR USER NAME>/aws-terraform-samples.git
    ```
