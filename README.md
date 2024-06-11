@@ -25,6 +25,3 @@ PC、サブネット、セキュリティグループ、およびEC2インスタ
    ```
    git clone https://github.com/yourusername/aws-terraform-samples.git
    ```
-   ```
-   cd aws-terraform-samples
-   ```
